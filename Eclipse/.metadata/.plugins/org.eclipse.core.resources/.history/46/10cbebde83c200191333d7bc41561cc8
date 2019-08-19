@@ -1,5 +1,6 @@
 package com.sergei.Hiber_Test_HQL;
 
+import java.util.List;
 import java.util.Random;
 
 import org.hibernate.Session;

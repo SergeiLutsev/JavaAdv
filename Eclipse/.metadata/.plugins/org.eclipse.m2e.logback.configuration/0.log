@@ -796,3 +796,24 @@
 2019-08-19 08:46:00,567 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-08-19 08:46:00,567 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\src\test\resources
 2019-08-19 08:55:01,749 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-08-19 09:11:34,496 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-08-19 09:13:23,039 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 09:13:23,040 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-19 09:13:23,042 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 09:13:23,043 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-19 09:13:40,064 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 09:13:40,064 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 09:13:40,066 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 09:13:40,067 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 09:13:41,372 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 09:13:41,373 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\HiperDemo\src\main\resources
+2019-08-19 09:13:41,375 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 09:13:41,375 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\HiperDemo\src\test\resources
+2019-08-19 09:14:50,538 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 09:14:50,539 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\HiperDemo\src\main\resources
+2019-08-19 09:14:50,542 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 09:14:50,543 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\HiperDemo\src\test\resources
+2019-08-19 09:18:45,108 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 09:18:45,109 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 09:18:45,110 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 09:18:45,111 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
