@@ -1,0 +1,797 @@
+2019-08-16 16:27:14,516 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-08-16 16:28:45,377 [Worker-3: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' T:\AdvansedProgramming\Eclipse\HiperDemo\pom.xml
+2019-08-16 16:28:55,991 [Worker-3: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sergei:HiperDemo:0.0.1-SNAPSHOT @ T:\AdvansedProgramming\Eclipse\HiperDemo\pom.xml.
+2019-08-16 16:29:00,441 [Worker-3: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HiperDemo/src/main/java
+2019-08-16 16:29:00,473 [Worker-3: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HiperDemo/src/test/java
+2019-08-16 16:29:00,868 [Worker-3: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 15 sec
+2019-08-16 16:29:03,685 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 16:29:03,685 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 16:29:03,687 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 16:29:03,687 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 16:33:38,447 [Worker-3: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sergei:HiperDemo:0.0.1-SNAPSHOT @ T:\AdvansedProgramming\Eclipse\HiperDemo\pom.xml.
+2019-08-16 16:33:39,335 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 16:33:39,336 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 16:33:39,338 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 16:33:39,339 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 16:34:04,157 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 16:34:04,158 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 16:34:04,159 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 16:34:04,159 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 16:35:30,939 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 16:35:30,939 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 16:35:30,946 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 16:35:30,946 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 16:39:03,927 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 16:39:03,928 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 16:39:03,928 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 16:39:03,929 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 16:39:06,040 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 16:39:06,040 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 16:39:06,041 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 16:39:06,041 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 16:44:09,639 [Worker-19: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sergei:HiperDemo:0.0.1-SNAPSHOT @ T:\AdvansedProgramming\Eclipse\HiperDemo\pom.xml.
+2019-08-16 16:44:10,117 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.1.6.Final/hibernate-core-4.1.6.Final.pom
+2019-08-16 16:44:10,233 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.1.6.Final/hibernate-core-4.1.6.Final.pom
+2019-08-16 16:44:10,332 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA.pom
+2019-08-16 16:44:10,373 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA.pom
+2019-08-16 16:44:10,472 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/7/jboss-parent-7.pom
+2019-08-16 16:44:10,519 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/7/jboss-parent-7.pom
+2019-08-16 16:44:10,699 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final.pom
+2019-08-16 16:44:10,804 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final.pom
+2019-08-16 16:44:10,867 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/jboss-specs-parent/1.0.0.Beta2/jboss-specs-parent-1.0.0.Beta2.pom
+2019-08-16 16:44:10,928 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/jboss-specs-parent/1.0.0.Beta2/jboss-specs-parent-1.0.0.Beta2.pom
+2019-08-16 16:44:10,964 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/5/jboss-parent-5.pom
+2019-08-16 16:44:11,012 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/5/jboss-parent-5.pom
+2019-08-16 16:44:11,137 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.pom
+2019-08-16 16:44:11,174 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.pom
+2019-08-16 16:44:11,240 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA.pom
+2019-08-16 16:44:11,288 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA.pom
+2019-08-16 16:44:11,333 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final.pom
+2019-08-16 16:44:11,369 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final.pom
+2019-08-16 16:44:11,440 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.0.CR2/jboss-logging-3.1.0.CR2.pom
+2019-08-16 16:44:11,492 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.0.CR2/jboss-logging-3.1.0.CR2.pom
+2019-08-16 16:44:11,555 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/6/jboss-parent-6.pom
+2019-08-16 16:44:11,615 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/6/jboss-parent-6.pom
+2019-08-16 16:44:11,841 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.1.6.Final/hibernate-core-4.1.6.Final.jar
+2019-08-16 16:44:14,036 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.1.6.Final/hibernate-core-4.1.6.Final.jar
+2019-08-16 16:44:14,069 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA.jar
+2019-08-16 16:44:14,225 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA.jar
+2019-08-16 16:44:14,262 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final.jar
+2019-08-16 16:44:14,435 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final.jar
+2019-08-16 16:44:14,484 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.jar
+2019-08-16 16:44:14,656 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.jar
+2019-08-16 16:44:14,687 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA.jar
+2019-08-16 16:44:15,385 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA.jar
+2019-08-16 16:44:15,412 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final.jar
+2019-08-16 16:44:15,736 [Worker-19: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final.jar
+2019-08-16 16:44:16,989 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 16:44:16,989 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 16:44:16,991 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 16:44:16,991 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 16:44:18,503 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 16:44:18,503 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 16:44:18,506 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 16:44:18,506 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 16:44:18,526 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.1.6.Final/hibernate-core-4.1.6.Final-sources.jar
+2019-08-16 16:44:20,475 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.1.6.Final/hibernate-core-4.1.6.Final-sources.jar
+2019-08-16 16:44:20,639 [Worker-19: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-core:4.1.6.Final
+2019-08-16 16:44:20,704 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA-sources.jar
+2019-08-16 16:44:20,833 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA-sources.jar
+2019-08-16 16:44:21,079 [Worker-19: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.logging:jboss-logging:3.1.0.GA
+2019-08-16 16:44:21,118 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final-sources.jar
+2019-08-16 16:44:21,358 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final-sources.jar
+2019-08-16 16:44:21,518 [Worker-19: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.spec.javax.transaction:jboss-transaction-api_1.1_spec:1.0.0.Final
+2019-08-16 16:44:21,551 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final-sources.jar
+2019-08-16 16:44:21,659 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final-sources.jar
+2019-08-16 16:44:21,903 [Worker-19: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.javax.persistence:hibernate-jpa-2.0-api:1.0.1.Final
+2019-08-16 16:44:21,959 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA-sources.jar
+2019-08-16 16:44:22,189 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA-sources.jar
+2019-08-16 16:44:22,526 [Worker-19: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.javassist:javassist:3.15.0-GA
+2019-08-16 16:44:22,576 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final-sources.jar
+2019-08-16 16:44:22,680 [Worker-19: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final-sources.jar
+2019-08-16 16:44:23,296 [Worker-19: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.common:hibernate-commons-annotations:4.0.1.Final
+2019-08-16 16:44:23,474 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 16:44:23,475 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 16:44:23,476 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 16:44:23,476 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 16:46:31,865 [Worker-21: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sergei:HiperDemo:0.0.1-SNAPSHOT @ T:\AdvansedProgramming\Eclipse\HiperDemo\pom.xml.
+2019-08-16 16:46:32,147 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.pom
+2019-08-16 16:46:32,226 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.pom
+2019-08-16 16:46:32,278 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.jar
+2019-08-16 16:46:32,910 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.jar
+2019-08-16 16:46:33,476 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 16:46:33,476 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 16:46:33,478 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 16:46:33,478 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 16:46:34,550 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38-sources.jar
+2019-08-16 16:46:35,001 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38-sources.jar
+2019-08-16 16:46:35,045 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 16:46:35,046 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 16:46:35,048 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 16:46:35,048 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 16:46:35,292 [Worker-21: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for mysql:mysql-connector-java:5.1.38
+2019-08-16 16:46:36,147 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 16:46:36,148 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 16:46:36,149 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 16:46:36,149 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 16:55:35,545 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 16:55:35,545 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 16:55:35,545 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 16:55:35,545 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 17:05:06,462 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-08-16 17:13:12,121 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 17:13:12,122 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 17:13:12,127 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 17:13:12,127 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 17:15:56,906 [Worker-18: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 17:15:56,906 [Worker-18: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 17:15:56,908 [Worker-18: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 17:15:56,909 [Worker-18: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 17:22:12,557 [Worker-22: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 17:22:12,557 [Worker-22: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 17:22:12,559 [Worker-22: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 17:22:12,559 [Worker-22: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 17:24:25,553 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 17:24:25,553 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 17:24:25,554 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 17:24:25,554 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 17:27:03,025 [Worker-25: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 17:27:03,025 [Worker-25: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 17:27:03,027 [Worker-25: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 17:27:03,027 [Worker-25: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 17:29:51,051 [Worker-29: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sergei:HiperDemo:0.0.1-SNAPSHOT @ T:\AdvansedProgramming\Eclipse\HiperDemo\pom.xml.
+2019-08-16 17:29:51,557 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 17:29:51,558 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 17:29:51,560 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 17:29:51,560 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 17:29:53,045 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 17:29:53,045 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 17:29:53,048 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 17:29:53,048 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 17:33:23,066 [Worker-29: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sergei:HiperDemo:0.0.1-SNAPSHOT @ T:\AdvansedProgramming\Eclipse\HiperDemo\pom.xml.
+2019-08-16 17:33:23,538 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 17:33:23,538 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 17:33:23,540 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 17:33:23,541 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 17:33:25,036 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 17:33:25,037 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 17:33:25,038 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 17:33:25,038 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 18:08:57,732 [Worker-38: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:08:57,732 [Worker-38: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 18:08:57,732 [Worker-38: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:08:57,732 [Worker-38: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 18:10:29,095 [Worker-40: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:10:29,095 [Worker-40: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 18:10:29,095 [Worker-40: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:10:29,095 [Worker-40: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 18:13:52,212 [Worker-41: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:13:52,212 [Worker-41: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 18:13:52,212 [Worker-41: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:13:52,212 [Worker-41: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 18:16:44,077 [Worker-38: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:16:44,077 [Worker-38: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 18:16:44,093 [Worker-38: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:16:44,093 [Worker-38: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 18:17:10,282 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:17:10,282 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 18:17:10,282 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:17:10,282 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 18:17:55,275 [Worker-47: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:17:55,275 [Worker-47: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 18:17:55,275 [Worker-47: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:17:55,275 [Worker-47: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 18:19:46,665 [Worker-38: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:19:46,680 [Worker-38: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 18:19:46,680 [Worker-38: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:19:46,680 [Worker-38: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 18:21:58,638 [Worker-43: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:21:58,638 [Worker-43: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 18:21:58,654 [Worker-43: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:21:58,654 [Worker-43: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 18:26:15,363 [Worker-57: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:26:15,363 [Worker-57: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 18:26:15,363 [Worker-57: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:26:15,363 [Worker-57: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 18:27:29,347 [Worker-43: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:27:29,347 [Worker-43: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 18:27:29,347 [Worker-43: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:27:29,347 [Worker-43: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 18:29:29,799 [Worker-60: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:29:29,799 [Worker-60: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 18:29:29,799 [Worker-60: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:29:29,815 [Worker-60: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 18:31:21,989 [Worker-60: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:31:21,989 [Worker-60: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 18:31:21,989 [Worker-60: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:31:21,989 [Worker-60: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 18:32:55,954 [Worker-64: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:32:55,970 [Worker-64: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 18:32:55,970 [Worker-64: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:32:55,970 [Worker-64: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 18:38:25,354 [Worker-60: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:38:25,354 [Worker-60: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 18:38:25,354 [Worker-60: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:38:25,354 [Worker-60: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 18:39:43,330 [Worker-72: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:39:43,330 [Worker-72: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 18:39:43,330 [Worker-72: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:39:43,330 [Worker-72: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 18:41:53,325 [Worker-73: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:41:53,325 [Worker-73: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 18:41:53,325 [Worker-73: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 18:41:53,325 [Worker-73: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 22:29:09,407 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 22:29:09,407 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 22:29:09,407 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 22:29:09,407 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 22:33:53,001 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 22:33:53,001 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 22:33:53,001 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 22:33:53,001 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 22:41:22,335 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 22:41:22,341 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 22:41:22,341 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 22:41:22,341 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 22:41:37,357 [Worker-84: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 22:41:37,357 [Worker-84: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 22:41:37,357 [Worker-84: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 22:41:37,357 [Worker-84: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 22:43:01,738 [Worker-88: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 22:43:01,738 [Worker-88: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 22:43:01,738 [Worker-88: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 22:43:01,738 [Worker-88: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 23:00:34,337 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 23:00:34,337 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 23:00:34,337 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 23:00:34,337 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 23:02:51,609 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 23:02:51,609 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 23:02:51,609 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 23:02:51,609 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 23:03:05,740 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 23:03:05,740 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 23:03:05,740 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 23:03:05,740 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 23:17:58,547 [Worker-83: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 23:17:58,547 [Worker-83: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 23:17:58,547 [Worker-83: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 23:17:58,547 [Worker-83: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 23:19:54,492 [Worker-83: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 23:19:54,492 [Worker-83: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 23:19:54,492 [Worker-83: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 23:19:54,492 [Worker-83: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 23:25:34,388 [Worker-96: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 23:25:34,388 [Worker-96: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 23:25:34,388 [Worker-96: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 23:25:34,388 [Worker-96: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 23:29:04,038 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 23:29:04,038 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 23:29:04,038 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 23:29:04,038 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 23:35:22,233 [Worker-107: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 23:35:22,233 [Worker-107: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 23:35:22,233 [Worker-107: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 23:35:22,233 [Worker-107: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 23:36:45,562 [Worker-98: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 23:36:45,562 [Worker-98: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 23:36:45,562 [Worker-98: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 23:36:45,562 [Worker-98: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 23:43:59,263 [Worker-112: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 23:43:59,263 [Worker-112: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 23:43:59,263 [Worker-112: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 23:43:59,263 [Worker-112: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 23:46:12,953 [Worker-106: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 23:46:12,953 [Worker-106: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 23:46:12,953 [Worker-106: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 23:46:12,953 [Worker-106: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 23:50:56,127 [Worker-111: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 23:50:56,127 [Worker-111: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 23:50:56,127 [Worker-111: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 23:50:56,127 [Worker-111: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 23:51:22,907 [Worker-120: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 23:51:22,907 [Worker-120: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 23:51:22,907 [Worker-120: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 23:51:22,907 [Worker-120: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-16 23:58:16,144 [Worker-124: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 23:58:16,144 [Worker-124: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-16 23:58:16,144 [Worker-124: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 23:58:16,144 [Worker-124: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-17 00:00:45,429 [Worker-126: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 00:00:45,429 [Worker-126: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-17 00:00:45,429 [Worker-126: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 00:00:45,429 [Worker-126: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-17 10:39:19,559 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-08-17 15:47:54,942 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-08-17 15:51:18,135 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\pom.xml
+2019-08-17 15:51:27,386 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sergei:HiberDemo_test_1:0.0.1-SNAPSHOT @ T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\pom.xml.
+2019-08-17 15:51:32,134 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HiberDemo_test_1/src/main/java
+2019-08-17 15:51:32,140 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HiberDemo_test_1/src/test/java
+2019-08-17 15:51:32,358 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 14 sec
+2019-08-17 15:51:33,143 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 15:51:33,143 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 15:51:33,146 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 15:51:33,147 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 15:51:34,778 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 15:51:34,779 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-17 15:51:34,780 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 15:51:34,780 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-17 15:52:59,647 [Worker-2: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sergei:HiberDemo_test_1:0.0.1-SNAPSHOT @ T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\pom.xml.
+2019-08-17 15:53:02,949 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.4.2.Final/hibernate-core-5.4.2.Final-sources.jar
+2019-08-17 15:53:04,721 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.4.2.Final/hibernate-core-5.4.2.Final-sources.jar
+2019-08-17 15:53:04,751 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 15:53:04,751 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 15:53:04,753 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 15:53:04,753 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 15:53:04,973 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-core:5.4.2.Final
+2019-08-17 15:53:05,023 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.24.0-GA/javassist-3.24.0-GA-sources.jar
+2019-08-17 15:53:05,215 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.24.0-GA/javassist-3.24.0-GA-sources.jar
+2019-08-17 15:53:05,437 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.javassist:javassist:3.24.0-GA
+2019-08-17 15:53:05,492 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.9.10/byte-buddy-1.9.10-sources.jar
+2019-08-17 15:53:05,946 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.9.10/byte-buddy-1.9.10-sources.jar
+2019-08-17 15:53:06,276 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.bytebuddy:byte-buddy:1.9.10
+2019-08-17 15:53:06,307 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final-sources.jar
+2019-08-17 15:53:06,446 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final-sources.jar
+2019-08-17 15:53:06,608 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec:1.1.1.Final
+2019-08-17 15:53:06,638 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.1.0.Final/hibernate-commons-annotations-5.1.0.Final-sources.jar
+2019-08-17 15:53:07,023 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.1.0.Final/hibernate-commons-annotations-5.1.0.Final-sources.jar
+2019-08-17 15:53:07,182 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.common:hibernate-commons-annotations:5.1.0.Final
+2019-08-17 15:53:07,257 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1-sources.jar
+2019-08-17 15:53:07,685 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1-sources.jar
+2019-08-17 15:53:07,867 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jaxb:jaxb-runtime:2.3.1
+2019-08-17 15:53:07,900 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1-sources.jar
+2019-08-17 15:53:07,967 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1-sources.jar
+2019-08-17 15:53:08,405 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jaxb:txw2:2.3.1
+2019-08-17 15:53:08,439 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7-sources.jar
+2019-08-17 15:53:08,643 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7-sources.jar
+2019-08-17 15:53:08,883 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.istack:istack-commons-runtime:3.0.7
+2019-08-17 15:53:08,910 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8-sources.jar
+2019-08-17 15:53:09,053 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8-sources.jar
+2019-08-17 15:53:09,220 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jvnet.staxex:stax-ex:1.8
+2019-08-17 15:53:09,253 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15-sources.jar
+2019-08-17 15:53:09,377 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15-sources.jar
+2019-08-17 15:53:09,613 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.xml.fastinfoset:FastInfoset:1.2.15
+2019-08-17 15:53:12,219 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 15:53:12,220 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 15:53:12,224 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 15:53:12,224 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 15:53:48,989 [Worker-0: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sergei:HiberDemo_test_1:0.0.1-SNAPSHOT @ T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\pom.xml.
+2019-08-17 15:53:49,371 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 15:53:49,371 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 15:53:49,373 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 15:53:49,373 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 15:53:50,694 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 15:53:50,695 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 15:53:50,696 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 15:53:50,697 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 15:54:39,511 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 15:54:39,511 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 15:54:39,512 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 15:54:39,513 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 15:54:40,619 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 15:54:40,620 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 15:54:40,624 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 15:54:40,624 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 15:57:06,994 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 15:57:06,994 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 15:57:06,996 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 15:57:06,996 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 15:58:32,894 [Worker-13: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 15:58:32,895 [Worker-13: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 15:58:32,896 [Worker-13: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 15:58:32,896 [Worker-13: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 16:01:19,520 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 16:01:19,521 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 16:01:19,522 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 16:01:19,522 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 16:02:49,003 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 16:02:49,003 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 16:02:49,005 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 16:02:49,005 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 16:10:13,120 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 16:10:13,120 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 16:10:13,121 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 16:10:13,121 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 16:13:52,157 [Worker-0: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 16:13:52,158 [Worker-0: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 16:13:52,159 [Worker-0: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 16:13:52,160 [Worker-0: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 16:14:59,790 [Worker-15: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 16:14:59,790 [Worker-15: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 16:14:59,791 [Worker-15: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 16:14:59,792 [Worker-15: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 16:15:31,507 [Worker-18: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 16:15:31,507 [Worker-18: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 16:15:31,510 [Worker-18: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 16:15:31,510 [Worker-18: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 16:15:58,818 [Worker-19: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 16:15:58,818 [Worker-19: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 16:15:58,820 [Worker-19: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 16:15:58,820 [Worker-19: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 16:16:50,062 [Worker-0: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 16:16:50,062 [Worker-0: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 16:16:50,063 [Worker-0: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 16:16:50,063 [Worker-0: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 16:17:06,706 [Worker-0: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 16:17:06,706 [Worker-0: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 16:17:06,708 [Worker-0: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 16:17:06,709 [Worker-0: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 16:21:49,715 [Worker-13: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 16:21:49,715 [Worker-13: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 16:21:49,716 [Worker-13: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 16:21:49,717 [Worker-13: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 16:23:54,412 [Worker-18: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 16:23:54,413 [Worker-18: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 16:23:54,414 [Worker-18: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 16:23:54,414 [Worker-18: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 16:25:56,054 [Worker-20: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sergei:HiberDemo_test_1:0.0.1-SNAPSHOT @ T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\pom.xml.
+2019-08-17 16:25:56,187 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 16:25:56,187 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 16:25:56,189 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 16:25:56,189 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 16:25:57,415 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 16:25:57,416 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 16:25:57,417 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 16:25:57,417 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 17:13:21,314 [Worker-23: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 17:13:21,314 [Worker-23: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 17:13:21,314 [Worker-23: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 17:13:21,314 [Worker-23: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 17:20:57,302 [Worker-29: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 17:20:57,302 [Worker-29: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 17:20:57,302 [Worker-29: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 17:20:57,302 [Worker-29: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 17:22:33,465 [Worker-16: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 17:22:33,465 [Worker-16: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 17:22:33,465 [Worker-16: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 17:22:33,465 [Worker-16: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 17:25:28,135 [Worker-30: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 17:25:28,135 [Worker-30: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 17:25:28,151 [Worker-30: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 17:25:28,151 [Worker-30: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 17:26:19,446 [Worker-33: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 17:26:19,452 [Worker-33: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 17:26:19,452 [Worker-33: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 17:26:19,452 [Worker-33: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 17:27:09,184 [Worker-23: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 17:27:09,184 [Worker-23: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 17:27:09,184 [Worker-23: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 17:27:09,184 [Worker-23: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 17:30:38,328 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 17:30:38,328 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 17:30:38,328 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 17:30:38,328 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 17:31:13,278 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 17:31:13,278 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 17:31:13,294 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 17:31:13,294 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 17:33:01,570 [Worker-23: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 17:33:01,570 [Worker-23: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 17:33:01,570 [Worker-23: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 17:33:01,570 [Worker-23: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 17:34:00,093 [Worker-38: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 17:34:00,093 [Worker-38: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 17:34:00,093 [Worker-38: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 17:34:00,093 [Worker-38: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 17:37:23,392 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 17:37:23,392 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 17:37:23,392 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 17:37:23,392 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 17:37:37,903 [Worker-38: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 17:37:37,903 [Worker-38: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 17:37:37,903 [Worker-38: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 17:37:37,903 [Worker-38: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 17:38:43,818 [Worker-38: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 17:38:43,818 [Worker-38: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 17:38:43,818 [Worker-38: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 17:38:43,818 [Worker-38: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-17 17:38:59,834 [Worker-42: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 17:38:59,834 [Worker-42: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-17 17:38:59,834 [Worker-42: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 17:38:59,834 [Worker-42: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-18 18:23:09,829 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-08-18 18:43:18,629 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 18:43:18,629 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 18:43:18,629 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 18:43:18,629 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 18:52:16,409 [Worker-10: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 18:52:16,409 [Worker-10: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 18:52:16,409 [Worker-10: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 18:52:16,409 [Worker-10: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 18:55:36,918 [Worker-18: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 18:55:36,918 [Worker-18: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 18:55:36,918 [Worker-18: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 18:55:36,918 [Worker-18: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 19:00:18,493 [Worker-20: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:00:18,493 [Worker-20: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 19:00:18,493 [Worker-20: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:00:18,493 [Worker-20: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 19:01:37,993 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:01:37,993 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 19:01:37,993 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:01:37,993 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 19:03:02,395 [Worker-10: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:03:02,395 [Worker-10: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 19:03:02,395 [Worker-10: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:03:02,395 [Worker-10: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 19:03:23,028 [Worker-19: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:03:23,028 [Worker-19: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 19:03:23,028 [Worker-19: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:03:23,028 [Worker-19: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 19:03:32,345 [Worker-19: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:03:32,345 [Worker-19: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 19:03:32,345 [Worker-19: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:03:32,345 [Worker-19: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 19:08:44,682 [Worker-24: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:08:44,682 [Worker-24: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 19:08:44,698 [Worker-24: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:08:44,698 [Worker-24: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 19:09:23,738 [Worker-26: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:09:23,754 [Worker-26: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 19:09:23,754 [Worker-26: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:09:23,754 [Worker-26: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 19:11:39,317 [Worker-27: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:11:39,317 [Worker-27: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 19:11:39,317 [Worker-27: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:11:39,317 [Worker-27: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 19:12:47,945 [Worker-27: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:12:47,945 [Worker-27: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 19:12:47,945 [Worker-27: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:12:47,945 [Worker-27: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 19:13:45,862 [Worker-29: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:13:45,862 [Worker-29: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 19:13:45,862 [Worker-29: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:13:45,862 [Worker-29: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 19:25:29,366 [Worker-33: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sergei:HiperDemo:0.0.1-SNAPSHOT @ T:\AdvansedProgramming\Eclipse\HiperDemo\pom.xml.
+2019-08-18 19:25:29,750 [Worker-33: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache/2.10.3/ehcache-2.10.3.pom
+2019-08-18 19:25:29,819 [Worker-33: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache/2.10.3/ehcache-2.10.3.pom
+2019-08-18 19:25:29,889 [Worker-33: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-root/2.10.3/ehcache-root-2.10.3.pom
+2019-08-18 19:25:29,957 [Worker-33: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-root/2.10.3/ehcache-root-2.10.3.pom
+2019-08-18 19:25:30,020 [Worker-33: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-parent/2.18/ehcache-parent-2.18.pom
+2019-08-18 19:25:30,073 [Worker-33: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-parent/2.18/ehcache-parent-2.18.pom
+2019-08-18 19:25:30,104 [Worker-33: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.pom
+2019-08-18 19:25:30,135 [Worker-33: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.pom
+2019-08-18 19:25:30,173 [Worker-33: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.7/slf4j-parent-1.7.7.pom
+2019-08-18 19:25:30,220 [Worker-33: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.7/slf4j-parent-1.7.7.pom
+2019-08-18 19:25:30,289 [Worker-33: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache/2.10.3/ehcache-2.10.3.jar
+2019-08-18 19:25:32,981 [Worker-33: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache/2.10.3/ehcache-2.10.3.jar
+2019-08-18 19:25:32,996 [Worker-33: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar
+2019-08-18 19:25:33,328 [Worker-33: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar
+2019-08-18 19:25:34,332 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:25:34,332 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 19:25:34,347 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:25:34,347 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 19:25:35,425 [Worker-32: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache/2.10.3/ehcache-2.10.3-sources.jar
+2019-08-18 19:25:37,450 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:25:37,450 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 19:25:37,450 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:25:37,450 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 19:25:38,053 [Worker-32: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache/2.10.3/ehcache-2.10.3-sources.jar
+2019-08-18 19:25:38,331 [Worker-32: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.sf.ehcache:ehcache:2.10.3
+2019-08-18 19:25:38,369 [Worker-32: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7-sources.jar
+2019-08-18 19:25:38,810 [Worker-32: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7-sources.jar
+2019-08-18 19:25:39,150 [Worker-32: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.7
+2019-08-18 19:25:39,400 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:25:39,400 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 19:25:39,400 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:25:39,400 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 19:27:22,540 [Worker-36: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sergei:HiperDemo:0.0.1-SNAPSHOT @ T:\AdvansedProgramming\Eclipse\HiperDemo\pom.xml.
+2019-08-18 19:27:22,794 [Worker-36: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-ehcache/5.2.17.Final/hibernate-ehcache-5.2.17.Final.pom
+2019-08-18 19:27:22,878 [Worker-36: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-ehcache/5.2.17.Final/hibernate-ehcache-5.2.17.Final.pom
+2019-08-18 19:27:23,126 [Worker-36: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.pom
+2019-08-18 19:27:23,211 [Worker-36: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.pom
+2019-08-18 19:27:23,311 [Worker-36: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.1.Final/jboss-transaction-api_1.2_spec-1.0.1.Final.pom
+2019-08-18 19:27:23,358 [Worker-36: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.1.Final/jboss-transaction-api_1.2_spec-1.0.1.Final.pom
+2019-08-18 19:27:23,396 [Worker-36: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/20/jboss-parent-20.pom
+2019-08-18 19:27:23,458 [Worker-36: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/20/jboss-parent-20.pom
+2019-08-18 19:27:23,596 [Worker-36: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.3.0/classmate-1.3.0.pom
+2019-08-18 19:27:23,712 [Worker-36: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.3.0/classmate-1.3.0.pom
+2019-08-18 19:27:23,843 [Worker-36: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.pom
+2019-08-18 19:27:23,897 [Worker-36: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.pom
+2019-08-18 19:27:23,944 [Worker-36: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-ehcache/5.2.17.Final/hibernate-ehcache-5.2.17.Final.jar
+2019-08-18 19:27:24,360 [Worker-36: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-ehcache/5.2.17.Final/hibernate-ehcache-5.2.17.Final.jar
+2019-08-18 19:27:24,699 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:27:24,699 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 19:27:24,715 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:27:24,715 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 19:27:25,679 [Worker-32: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-ehcache/5.2.17.Final/hibernate-ehcache-5.2.17.Final-sources.jar
+2019-08-18 19:27:25,772 [Worker-32: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-ehcache/5.2.17.Final/hibernate-ehcache-5.2.17.Final-sources.jar
+2019-08-18 19:27:25,895 [Worker-32: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-ehcache:5.2.17.Final
+2019-08-18 19:27:26,222 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:27:26,222 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 19:27:26,222 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:27:26,222 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 19:31:51,406 [Worker-37: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:31:51,406 [Worker-37: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 19:31:51,406 [Worker-37: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:31:51,406 [Worker-37: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 19:36:22,839 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:36:22,839 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 19:36:22,839 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:36:22,839 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 19:39:54,193 [Worker-37: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sergei:HiperDemo:0.0.1-SNAPSHOT @ T:\AdvansedProgramming\Eclipse\HiperDemo\pom.xml.
+2019-08-18 19:39:54,494 [Worker-37: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-ehcache/4.1.6.Final/hibernate-ehcache-4.1.6.Final.pom
+2019-08-18 19:39:54,578 [Worker-37: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-ehcache/4.1.6.Final/hibernate-ehcache-4.1.6.Final.pom
+2019-08-18 19:39:54,610 [Worker-37: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-core/2.4.3/ehcache-core-2.4.3.pom
+2019-08-18 19:39:54,695 [Worker-37: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-core/2.4.3/ehcache-core-2.4.3.pom
+2019-08-18 19:39:54,766 [Worker-37: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-parent/2.2/ehcache-parent-2.2.pom
+2019-08-18 19:39:54,826 [Worker-37: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-parent/2.2/ehcache-parent-2.2.pom
+2019-08-18 19:39:54,886 [Worker-37: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1.pom
+2019-08-18 19:39:54,935 [Worker-37: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1.pom
+2019-08-18 19:39:54,982 [Worker-37: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.6.1/slf4j-parent-1.6.1.pom
+2019-08-18 19:39:55,035 [Worker-37: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.6.1/slf4j-parent-1.6.1.pom
+2019-08-18 19:39:55,113 [Worker-37: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-ehcache/4.1.6.Final/hibernate-ehcache-4.1.6.Final.jar
+2019-08-18 19:39:55,500 [Worker-37: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-ehcache/4.1.6.Final/hibernate-ehcache-4.1.6.Final.jar
+2019-08-18 19:39:55,569 [Worker-37: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-core/2.4.3/ehcache-core-2.4.3.jar
+2019-08-18 19:39:56,202 [Worker-37: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-core/2.4.3/ehcache-core-2.4.3.jar
+2019-08-18 19:39:56,603 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:39:56,603 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 19:39:56,603 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:39:56,603 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 19:39:57,743 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-ehcache/4.1.6.Final/hibernate-ehcache-4.1.6.Final-sources.jar
+2019-08-18 19:39:57,944 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-ehcache/4.1.6.Final/hibernate-ehcache-4.1.6.Final-sources.jar
+2019-08-18 19:39:58,207 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:39:58,207 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 19:39:58,207 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:39:58,207 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 19:39:58,392 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-ehcache:4.1.6.Final
+2019-08-18 19:39:58,461 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-core/2.4.3/ehcache-core-2.4.3-sources.jar
+2019-08-18 19:39:59,030 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/ehcache/ehcache-core/2.4.3/ehcache-core-2.4.3-sources.jar
+2019-08-18 19:39:59,161 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.sf.ehcache:ehcache-core:2.4.3
+2019-08-18 19:39:59,451 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:39:59,451 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 19:39:59,467 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:39:59,467 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 19:42:33,772 [Worker-45: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:42:33,787 [Worker-45: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 19:42:33,787 [Worker-45: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:42:33,787 [Worker-45: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 19:50:28,190 [Worker-48: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:50:28,190 [Worker-48: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 19:50:28,190 [Worker-48: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:50:28,190 [Worker-48: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 19:50:44,424 [Worker-50: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:50:44,424 [Worker-50: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 19:50:44,424 [Worker-50: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:50:44,424 [Worker-50: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 19:52:49,061 [Worker-49: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:52:49,061 [Worker-49: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 19:52:49,061 [Worker-49: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:52:49,061 [Worker-49: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 19:54:10,552 [Worker-49: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:54:10,552 [Worker-49: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 19:54:10,552 [Worker-49: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:54:10,552 [Worker-49: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 19:58:38,239 [Worker-49: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:58:38,239 [Worker-49: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 19:58:38,239 [Worker-49: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 19:58:38,239 [Worker-49: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 20:00:14,241 [Worker-57: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 20:00:14,241 [Worker-57: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 20:00:14,257 [Worker-57: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 20:00:14,257 [Worker-57: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-18 20:00:37,794 [Worker-60: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 20:00:37,794 [Worker-60: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\main\resources
+2019-08-18 20:00:37,794 [Worker-60: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 20:00:37,794 [Worker-60: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\HiperDemo\src\test\resources
+2019-08-19 08:14:33,613 [Worker-66: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\pom.xml
+2019-08-19 08:14:37,840 [Worker-66: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sergei:Hiber_Test_HQL:0.0.1-SNAPSHOT @ T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\pom.xml.
+2019-08-19 08:14:38,888 [Worker-66: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Hiber_Test_HQL/src/main/java
+2019-08-19 08:14:38,919 [Worker-66: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Hiber_Test_HQL/src/test/java
+2019-08-19 08:14:40,218 [Worker-66: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2019-08-19 08:14:41,783 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 08:14:41,784 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 08:14:41,788 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 08:14:41,788 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 08:16:00,556 [Worker-66: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sergei:Hiber_Test_HQL:0.0.1-SNAPSHOT @ T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\pom.xml.
+2019-08-19 08:16:00,866 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.11.Final/hibernate-core-4.3.11.Final.pom
+2019-08-19 08:16:01,276 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.11.Final/hibernate-core-4.3.11.Final.pom
+2019-08-19 08:16:01,325 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.pom
+2019-08-19 08:16:01,440 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.pom
+2019-08-19 08:16:01,483 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/9/jboss-parent-9.pom
+2019-08-19 08:16:01,608 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/9/jboss-parent-9.pom
+2019-08-19 08:16:01,664 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1.pom
+2019-08-19 08:16:01,710 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1.pom
+2019-08-19 08:16:01,757 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging-tools-parent/1.2.0.Beta1/jboss-logging-tools-parent-1.2.0.Beta1.pom
+2019-08-19 08:16:02,126 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging-tools-parent/1.2.0.Beta1/jboss-logging-tools-parent-1.2.0.Beta1.pom
+2019-08-19 08:16:02,292 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/10/jboss-parent-10.pom
+2019-08-19 08:16:02,535 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/10/jboss-parent-10.pom
+2019-08-19 08:16:02,609 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.0.Final/jboss-transaction-api_1.2_spec-1.0.0.Final.pom
+2019-08-19 08:16:02,705 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.0.Final/jboss-transaction-api_1.2_spec-1.0.0.Final.pom
+2019-08-19 08:16:03,201 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final.pom
+2019-08-19 08:16:03,279 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final.pom
+2019-08-19 08:16:03,392 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.pom
+2019-08-19 08:16:03,462 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.pom
+2019-08-19 08:16:04,250 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/1.1.0.Final/jandex-1.1.0.Final.pom
+2019-08-19 08:16:04,395 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/1.1.0.Final/jandex-1.1.0.Final.pom
+2019-08-19 08:16:04,908 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.11.Final/hibernate-core-4.3.11.Final.jar
+2019-08-19 08:16:10,620 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.11.Final/hibernate-core-4.3.11.Final.jar
+2019-08-19 08:16:10,671 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.jar
+2019-08-19 08:16:11,029 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.jar
+2019-08-19 08:16:11,065 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1.jar
+2019-08-19 08:16:11,792 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1.jar
+2019-08-19 08:16:11,834 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.0.Final/jboss-transaction-api_1.2_spec-1.0.0.Final.jar
+2019-08-19 08:16:12,382 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.0.Final/jboss-transaction-api_1.2_spec-1.0.0.Final.jar
+2019-08-19 08:16:12,424 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final.jar
+2019-08-19 08:16:13,009 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final.jar
+2019-08-19 08:16:13,054 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar
+2019-08-19 08:16:13,579 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar
+2019-08-19 08:16:13,693 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar
+2019-08-19 08:16:14,619 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar
+2019-08-19 08:16:14,661 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/1.1.0.Final/jandex-1.1.0.Final.jar
+2019-08-19 08:16:15,196 [Worker-66: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/1.1.0.Final/jandex-1.1.0.Final.jar
+2019-08-19 08:16:20,542 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 08:16:20,542 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 08:16:20,543 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 08:16:20,545 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 08:16:20,915 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 08:16:20,915 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 08:16:20,915 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 08:16:20,915 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 08:16:21,010 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.11.Final/hibernate-core-4.3.11.Final-sources.jar
+2019-08-19 08:16:38,985 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.11.Final/hibernate-core-4.3.11.Final-sources.jar
+2019-08-19 08:16:39,484 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-core:4.3.11.Final
+2019-08-19 08:16:39,576 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA-sources.jar
+2019-08-19 08:16:40,659 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA-sources.jar
+2019-08-19 08:16:41,151 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.logging:jboss-logging:3.1.3.GA
+2019-08-19 08:16:41,192 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1-sources.jar
+2019-08-19 08:16:41,570 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1-sources.jar
+2019-08-19 08:16:42,153 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.logging:jboss-logging-annotations:1.2.0.Beta1
+2019-08-19 08:16:42,197 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.0.Final/jboss-transaction-api_1.2_spec-1.0.0.Final-sources.jar
+2019-08-19 08:16:43,000 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.0.Final/jboss-transaction-api_1.2_spec-1.0.0.Final-sources.jar
+2019-08-19 08:16:44,081 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec:1.0.0.Final
+2019-08-19 08:16:44,138 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2-sources.jar
+2019-08-19 08:16:44,994 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2-sources.jar
+2019-08-19 08:16:46,409 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for xml-apis:xml-apis:1.0.b2
+2019-08-19 08:16:46,453 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final-sources.jar
+2019-08-19 08:16:46,678 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final-sources.jar
+2019-08-19 08:16:47,252 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.common:hibernate-commons-annotations:4.0.5.Final
+2019-08-19 08:16:47,318 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar
+2019-08-19 08:16:47,867 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar
+2019-08-19 08:16:48,514 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.javax.persistence:hibernate-jpa-2.1-api:1.0.0.Final
+2019-08-19 08:16:48,589 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA-sources.jar
+2019-08-19 08:16:49,672 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA-sources.jar
+2019-08-19 08:16:51,633 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.javassist:javassist:3.18.1-GA
+2019-08-19 08:16:51,679 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/1.1.0.Final/jandex-1.1.0.Final-sources.jar
+2019-08-19 08:16:51,809 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/1.1.0.Final/jandex-1.1.0.Final-sources.jar
+2019-08-19 08:16:52,698 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss:jandex:1.1.0.Final
+2019-08-19 08:16:53,048 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 08:16:53,049 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 08:16:53,050 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 08:16:53,050 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 08:19:28,906 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 08:19:28,906 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 08:19:28,909 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 08:19:28,909 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 08:19:29,949 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 08:19:29,950 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 08:19:29,951 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 08:19:29,952 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 08:20:10,080 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 08:20:10,080 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 08:20:10,081 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 08:20:10,082 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 08:20:52,392 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 08:20:52,392 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 08:20:52,393 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 08:20:52,394 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 08:22:27,909 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 08:22:27,910 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 08:22:27,911 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 08:22:27,911 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 08:28:35,948 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 08:28:35,949 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 08:28:35,951 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 08:28:35,951 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 08:30:12,861 [Worker-77: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 08:30:12,861 [Worker-77: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 08:30:12,863 [Worker-77: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 08:30:12,863 [Worker-77: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 08:35:07,013 [Worker-76: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 08:35:07,013 [Worker-76: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 08:35:07,014 [Worker-76: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 08:35:07,014 [Worker-76: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 08:46:00,564 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 08:46:00,565 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 08:46:00,567 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 08:46:00,567 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvansedProgramming\Eclipse\Hiber_Test_HQL\src\test\resources

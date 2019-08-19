@@ -1,0 +1,17 @@
+package com.sergei.Hiber_Test_HQL;
+
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "student")
+public class Student {
+	@Id
+	private int rollno;
+	private String name;
+	private int marks;
+	
+	
+
+}

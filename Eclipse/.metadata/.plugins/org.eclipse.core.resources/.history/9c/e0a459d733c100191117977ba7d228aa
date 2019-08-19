@@ -1,0 +1,49 @@
+package com.sergei.HiberDemo_test_1;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
+import org.hibernate.cfg.Configuration;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+       
+    	Laptop dell=new Laptop();
+    	dell.setLid(101);
+    	dell.setBrand("DELL");
+    	dell.setPrice(830);
+    	
+    	Alien al1=new Alien();
+    	al1.setAid(1);
+    	al1.setAname("Peter");
+    	al1.getLaptop().add(dell);
+    	
+    	dell.setAlien(al1);
+    	
+    	
+    	// connect o db
+    	Configuration conf = new Configuration().configure()
+    											.addAnnotatedClass(Alien.class)
+    											.addAnnotatedClass(Laptop.class);
+    	SessionFactory sf=conf.buildSessionFactory();
+    	Session sessin = sf.openSession();
+    	Transaction tr = sessin.beginTransaction();
+    	
+    	sessin.save(dell);
+    	sessin.save(al1);
+    	
+    	tr.commit();
+    	
+    	
+    
+    	
+    	
+    	
+    }
+}

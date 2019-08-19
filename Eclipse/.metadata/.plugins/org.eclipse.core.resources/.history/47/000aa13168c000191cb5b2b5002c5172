@@ -1,0 +1,17 @@
+package com.sergei.HiperDemo;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+       Alien telisco = new Alien();
+       telisco.setAid(101);
+       telisco.setAname("Telisco");
+       telisco.setColor("Blue");
+       
+    }
+}

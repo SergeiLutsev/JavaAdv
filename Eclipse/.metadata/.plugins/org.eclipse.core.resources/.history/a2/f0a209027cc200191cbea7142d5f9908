@@ -1,0 +1,5 @@
+package com.sergei.Hiber_Test_HQL;
+
+public class Student {
+
+}

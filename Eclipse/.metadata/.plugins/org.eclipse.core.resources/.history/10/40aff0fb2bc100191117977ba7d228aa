@@ -1,0 +1,30 @@
+package com.sergei.HiberDemo_test_1;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+       
+    	Laptop dell=new Laptop();
+    	dell.setLid(101);
+    	dell.setBrand("DELL");
+    	dell.setPrice(830);
+    	
+    	Alien al1=new Alien();
+    	al1.setAid(1);
+    	al1.setAname("Peter");
+    	al1.getLaptop().add(dell);
+    	
+    	dell.setAlien(al1);
+    	
+    	System.out.println(dell);
+//    	System.out.println(al1);
+    	
+    	
+    	
+    }
+}

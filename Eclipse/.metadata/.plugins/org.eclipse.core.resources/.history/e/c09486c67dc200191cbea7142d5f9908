@@ -1,0 +1,30 @@
+package com.sergei.Hiber_Test_HQL;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+import org.hibernate.service.ServiceRegistry;
+import org.hibernate.service.ServiceRegistryBuilder;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	Student st = new Student(1, "John", 50);
+
+    	Configuration conf= new Configuration().configure()
+    											.addAnnotatedClass(Student.class);
+    	ServiceRegistry sr = new ServiceRegistryBuilder().applySettings(conf.getProperties()).buildServiceRegistry();
+		SessionFactory sf = conf.buildSessionFactory(sr);
+    	Session session = sf.openSession();
+    	session.beginTransaction();
+    	session.save(st);
+    	
+    	session.getTransaction().commit();
+    	session.close();
+    }
+}

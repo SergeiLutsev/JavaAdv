@@ -1,0 +1,23 @@
+package com.sergei.HiperDemo;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+
+
+public class App 
+{
+    public static void main( String[] args )
+    {
+       Alien telisco = new Alien();
+       telisco.setAid(101);
+       telisco.setAname("Telisco");
+       telisco.setColor("Blue");
+       
+       Configuration conf =new Configuration();
+       SessionFactory sf = conf.buildSessionFactory();
+       Session session = sf.openSession();
+       
+       session.save(telisco);
+    }
+}
