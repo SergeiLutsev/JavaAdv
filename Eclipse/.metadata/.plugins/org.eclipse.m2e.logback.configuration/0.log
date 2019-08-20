@@ -817,3 +817,355 @@
 2019-08-19 09:18:45,109 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
 2019-08-19 09:18:45,110 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-08-19 09:18:45,111 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 09:41:54,725 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-08-19 09:42:33,595 [Worker-13: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sergei:Hiber_Test_HQL:0.0.1-SNAPSHOT @ T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\pom.xml.
+2019-08-19 09:42:33,595 [Worker-12: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sergei:Hiber_Test_HQL:0.0.1-SNAPSHOT @ T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\pom.xml.
+2019-08-19 09:42:35,456 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 09:42:35,457 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 09:42:35,910 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 09:42:35,910 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 09:42:35,916 [Worker-14: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sergei:Hiber_Test_HQL:0.0.1-SNAPSHOT @ T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\pom.xml.
+2019-08-19 09:42:36,501 [Worker-14: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sergei:HiperDemo:0.0.1-SNAPSHOT @ T:\AdvancedProgramming\JavaAdv\Eclipse\HiperDemo\pom.xml.
+2019-08-19 09:42:37,118 [Worker-14: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sergei:HiberDemo_test_1:0.0.1-SNAPSHOT @ T:\AdvancedProgramming\JavaAdv\Eclipse\HiberDemo_test_1\pom.xml.
+2019-08-19 09:42:37,832 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 09:42:37,832 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-19 09:42:37,833 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 09:42:37,834 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-19 09:42:37,906 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 09:42:37,907 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 09:42:37,908 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 09:42:37,908 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 09:42:38,028 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 09:42:38,028 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\HiperDemo\src\main\resources
+2019-08-19 09:42:38,030 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 09:42:38,030 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\HiperDemo\src\test\resources
+2019-08-19 09:47:14,967 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-08-19 09:48:50,132 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 09:48:50,133 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\HiberDemo_test_1\src\main\resources
+2019-08-19 09:48:50,136 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 09:48:50,136 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\HiberDemo_test_1\src\test\resources
+2019-08-19 09:48:51,225 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 09:48:51,227 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 09:48:51,230 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 09:48:51,231 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 09:48:52,737 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 09:48:52,737 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\HiperDemo\src\main\resources
+2019-08-19 09:48:52,741 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 09:48:52,741 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\HiperDemo\src\test\resources
+2019-08-19 09:50:36,078 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 09:50:36,078 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\HiperDemo\src\main\resources
+2019-08-19 09:50:36,083 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 09:50:36,084 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\HiperDemo\src\test\resources
+2019-08-19 12:57:49,092 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-08-19 13:03:14,250 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:03:14,251 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 13:03:14,253 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:03:14,253 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 13:03:16,388 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:03:16,389 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\HiperDemo\src\main\resources
+2019-08-19 13:03:16,394 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:03:16,395 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\HiperDemo\src\test\resources
+2019-08-19 13:03:29,116 [Worker-11: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:03:29,116 [Worker-11: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 13:03:29,118 [Worker-11: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:03:29,118 [Worker-11: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 13:04:27,676 [Worker-12: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:04:27,676 [Worker-12: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 13:04:27,678 [Worker-12: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:04:27,678 [Worker-12: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 13:05:20,892 [Worker-13: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:05:20,892 [Worker-13: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 13:05:20,894 [Worker-13: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:05:20,894 [Worker-13: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 13:09:06,987 [Worker-15: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:09:06,988 [Worker-15: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 13:09:06,990 [Worker-15: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:09:06,990 [Worker-15: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 13:10:46,726 [Worker-13: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:10:46,726 [Worker-13: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 13:10:46,728 [Worker-13: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:10:46,728 [Worker-13: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 13:11:00,569 [Worker-13: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:11:00,570 [Worker-13: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 13:11:00,590 [Worker-13: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:11:00,590 [Worker-13: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 13:12:15,045 [Worker-17: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:12:15,045 [Worker-17: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 13:12:15,048 [Worker-17: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:12:15,048 [Worker-17: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 13:20:27,576 [Worker-21: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:20:27,576 [Worker-21: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 13:20:27,577 [Worker-21: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:20:27,577 [Worker-21: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 13:26:39,057 [Worker-26: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:26:39,058 [Worker-26: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 13:26:39,060 [Worker-26: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:26:39,061 [Worker-26: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 13:27:46,566 [Worker-21: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:27:46,566 [Worker-21: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 13:27:46,568 [Worker-21: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:27:46,568 [Worker-21: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 13:36:36,616 [Worker-30: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:36:36,618 [Worker-30: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 13:36:36,619 [Worker-30: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:36:36,620 [Worker-30: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 13:36:49,568 [Worker-28: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:36:49,569 [Worker-28: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 13:36:49,570 [Worker-28: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:36:49,570 [Worker-28: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 13:37:18,573 [Worker-31: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:37:18,573 [Worker-31: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 13:37:18,574 [Worker-31: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:37:18,574 [Worker-31: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 13:37:26,847 [Worker-31: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:37:26,847 [Worker-31: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 13:37:26,849 [Worker-31: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 13:37:26,849 [Worker-31: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 15:36:11,321 [Worker-42: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 15:36:11,321 [Worker-42: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 15:36:11,323 [Worker-42: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 15:36:11,324 [Worker-42: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 15:36:44,362 [Worker-52: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 15:36:44,363 [Worker-52: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 15:36:44,364 [Worker-52: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 15:36:44,364 [Worker-52: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 15:43:18,697 [Worker-54: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 15:43:18,697 [Worker-54: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 15:43:18,699 [Worker-54: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 15:43:18,699 [Worker-54: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 15:44:04,101 [Worker-56: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 15:44:04,101 [Worker-56: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 15:44:04,102 [Worker-56: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 15:44:04,102 [Worker-56: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 15:49:07,040 [Worker-54: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 15:49:07,041 [Worker-54: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 15:49:07,042 [Worker-54: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 15:49:07,042 [Worker-54: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 15:54:27,754 [Worker-63: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 15:54:27,754 [Worker-63: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 15:54:27,756 [Worker-63: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 15:54:27,756 [Worker-63: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 15:56:13,556 [Worker-64: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 15:56:13,556 [Worker-64: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 15:56:13,557 [Worker-64: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 15:56:13,557 [Worker-64: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-19 16:08:42,959 [Worker-61: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 16:08:42,959 [Worker-61: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-19 16:08:42,961 [Worker-61: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-19 16:08:42,961 [Worker-61: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-20 09:48:52,473 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 09:48:52,476 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-20 09:48:52,478 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 09:48:52,479 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-20 10:01:23,013 [Worker-89: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:01:23,013 [Worker-89: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-20 10:01:23,015 [Worker-89: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:01:23,015 [Worker-89: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-20 10:03:27,968 [Worker-93: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:03:27,968 [Worker-93: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-20 10:03:27,969 [Worker-93: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:03:27,970 [Worker-93: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-20 10:03:57,451 [Worker-95: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:03:57,452 [Worker-95: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-20 10:03:57,453 [Worker-95: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:03:57,454 [Worker-95: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-20 10:05:30,079 [Worker-89: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:05:30,080 [Worker-89: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-20 10:05:30,081 [Worker-89: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:05:30,082 [Worker-89: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-20 10:17:12,903 [Worker-101: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:17:12,904 [Worker-101: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-20 10:17:12,905 [Worker-101: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:17:12,906 [Worker-101: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-20 10:18:34,458 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:18:34,459 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-20 10:18:34,462 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:18:34,462 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-20 10:19:25,997 [Worker-101: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:19:25,998 [Worker-101: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-20 10:19:26,001 [Worker-101: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:19:26,001 [Worker-101: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-20 10:19:42,198 [Worker-107: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:19:42,198 [Worker-107: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-20 10:19:42,200 [Worker-107: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:19:42,200 [Worker-107: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-20 10:20:13,682 [Worker-103: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:20:13,682 [Worker-103: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-20 10:20:13,683 [Worker-103: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:20:13,683 [Worker-103: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-20 10:20:39,135 [Worker-109: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:20:39,135 [Worker-109: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-20 10:20:39,137 [Worker-109: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:20:39,137 [Worker-109: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-20 10:22:46,373 [Worker-109: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:22:46,373 [Worker-109: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-20 10:22:46,375 [Worker-109: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:22:46,375 [Worker-109: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-20 10:23:12,407 [Worker-106: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:23:12,408 [Worker-106: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-20 10:23:12,409 [Worker-106: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:23:12,409 [Worker-106: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-20 10:24:32,744 [Worker-106: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:24:32,744 [Worker-106: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-20 10:24:32,745 [Worker-106: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:24:32,745 [Worker-106: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-20 10:25:01,767 [Worker-110: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:25:01,767 [Worker-110: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-20 10:25:01,769 [Worker-110: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:25:01,770 [Worker-110: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-20 10:25:34,746 [Worker-106: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:25:34,746 [Worker-106: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-20 10:25:34,747 [Worker-106: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:25:34,747 [Worker-106: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-20 16:35:40,504 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-08-20 17:01:44,859 [Worker-18: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:01:44,860 [Worker-18: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-20 17:01:44,862 [Worker-18: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:01:44,862 [Worker-18: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-20 17:03:08,996 [Worker-17: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:03:08,996 [Worker-17: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-20 17:03:08,998 [Worker-17: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:03:08,999 [Worker-17: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-20 17:03:39,843 [Worker-17: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:03:39,843 [Worker-17: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-20 17:03:39,845 [Worker-17: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:03:39,845 [Worker-17: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-20 17:07:08,799 [Worker-23: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:07:08,800 [Worker-23: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-20 17:07:08,801 [Worker-23: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:07:08,801 [Worker-23: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-20 17:07:24,883 [Worker-17: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:07:24,884 [Worker-17: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-20 17:07:24,885 [Worker-17: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:07:24,886 [Worker-17: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-20 17:27:37,610 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:27:37,610 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\main\resources
+2019-08-20 17:27:37,612 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:27:37,612 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\Hiber_Test_HQL\src\test\resources
+2019-08-20 17:28:45,941 [Worker-31: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\pom.xml
+2019-08-20 17:28:53,066 [Worker-31: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sergei:JPA_Test:0.0.1-SNAPSHOT @ T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\pom.xml.
+2019-08-20 17:28:53,549 [Worker-31: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JPA_Test/src/main/java
+2019-08-20 17:28:53,554 [Worker-31: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JPA_Test/src/test/java
+2019-08-20 17:28:53,809 [Worker-31: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2019-08-20 17:28:54,996 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:28:54,996 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\main\resources
+2019-08-20 17:28:54,997 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:28:54,998 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\test\resources
+2019-08-20 17:31:27,139 [Worker-32: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sergei:JPA_Test:0.0.1-SNAPSHOT @ T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\pom.xml.
+2019-08-20 17:31:27,733 [Worker-32: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.4.4.Final/hibernate-core-5.4.4.Final.pom
+2019-08-20 17:31:27,839 [Worker-32: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.4.4.Final/hibernate-core-5.4.4.Final.pom
+2019-08-20 17:31:28,271 [Worker-32: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.9.11/byte-buddy-1.9.11.pom
+2019-08-20 17:31:28,351 [Worker-32: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.9.11/byte-buddy-1.9.11.pom
+2019-08-20 17:31:28,470 [Worker-32: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.9.11/byte-buddy-parent-1.9.11.pom
+2019-08-20 17:31:28,542 [Worker-32: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.9.11/byte-buddy-parent-1.9.11.pom
+2019-08-20 17:31:31,076 [Worker-32: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.4.4.Final/hibernate-core-5.4.4.Final.jar
+2019-08-20 17:31:35,655 [Worker-32: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.4.4.Final/hibernate-core-5.4.4.Final.jar
+2019-08-20 17:31:35,692 [Worker-32: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.9.11/byte-buddy-1.9.11.jar
+2019-08-20 17:31:37,912 [Worker-32: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.9.11/byte-buddy-1.9.11.jar
+2019-08-20 17:31:39,936 [Worker-31: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.4.4.Final/hibernate-core-5.4.4.Final-sources.jar
+2019-08-20 17:31:41,533 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:31:41,533 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\main\resources
+2019-08-20 17:31:41,537 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:31:41,537 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\test\resources
+2019-08-20 17:31:41,937 [Worker-31: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.4.4.Final/hibernate-core-5.4.4.Final-sources.jar
+2019-08-20 17:31:42,221 [Worker-31: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-core:5.4.4.Final
+2019-08-20 17:31:42,404 [Worker-31: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.9.11/byte-buddy-1.9.11-sources.jar
+2019-08-20 17:31:42,800 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:31:42,801 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\main\resources
+2019-08-20 17:31:42,802 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:31:42,802 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\test\resources
+2019-08-20 17:31:42,985 [Worker-31: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.9.11/byte-buddy-1.9.11-sources.jar
+2019-08-20 17:31:43,259 [Worker-31: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.bytebuddy:byte-buddy:1.9.11
+2019-08-20 17:31:43,997 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:31:43,998 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\main\resources
+2019-08-20 17:31:43,999 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:31:43,999 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\test\resources
+2019-08-20 17:34:59,307 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:34:59,308 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\main\resources
+2019-08-20 17:34:59,312 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:34:59,312 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\test\resources
+2019-08-20 17:37:26,311 [Worker-24: Launching App (3)] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sergei:JPA_Test:0.0.1-SNAPSHOT @ T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\pom.xml.
+2019-08-20 17:37:27,283 [Worker-24: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:37:27,284 [Worker-24: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\main\resources
+2019-08-20 17:37:27,285 [Worker-24: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:37:27,285 [Worker-24: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\test\resources
+2019-08-20 17:42:39,750 [Worker-30: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:42:39,750 [Worker-30: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\main\resources
+2019-08-20 17:42:39,752 [Worker-30: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:42:39,752 [Worker-30: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\test\resources
+2019-08-20 17:45:14,264 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:45:14,265 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\main\resources
+2019-08-20 17:45:14,266 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:45:14,266 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\test\resources
+2019-08-20 17:46:21,328 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:46:21,328 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\main\resources
+2019-08-20 17:46:21,328 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:46:21,329 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\test\resources
+2019-08-20 17:46:31,202 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:46:31,202 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\main\resources
+2019-08-20 17:46:31,204 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:46:31,204 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\test\resources
+2019-08-20 17:47:46,707 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:47:46,707 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\main\resources
+2019-08-20 17:47:46,709 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:47:46,709 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\test\resources
+2019-08-20 17:55:43,758 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:55:43,758 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\main\resources
+2019-08-20 17:55:43,760 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:55:43,760 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\test\resources
+2019-08-20 17:57:28,923 [Worker-42: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:57:28,923 [Worker-42: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\main\resources
+2019-08-20 17:57:28,925 [Worker-42: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:57:28,925 [Worker-42: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\test\resources
+2019-08-20 17:58:42,817 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:58:42,817 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\main\resources
+2019-08-20 17:58:42,818 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:58:42,818 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\test\resources
+2019-08-20 17:58:48,625 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:58:48,625 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\main\resources
+2019-08-20 17:58:48,626 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:58:48,627 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\test\resources
+2019-08-20 17:59:14,138 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:59:14,138 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\main\resources
+2019-08-20 17:59:14,141 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:59:14,141 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\test\resources
+2019-08-20 18:01:11,566 [Worker-41: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 18:01:11,566 [Worker-41: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\main\resources
+2019-08-20 18:01:11,568 [Worker-41: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 18:01:11,568 [Worker-41: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\test\resources
+2019-08-20 18:04:54,088 [Worker-47: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 18:04:54,088 [Worker-47: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\main\resources
+2019-08-20 18:04:54,090 [Worker-47: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 18:04:54,090 [Worker-47: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\test\resources
+2019-08-20 18:05:51,844 [Worker-48: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 18:05:51,844 [Worker-48: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\main\resources
+2019-08-20 18:05:51,845 [Worker-48: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 18:05:51,845 [Worker-48: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\test\resources
+2019-08-20 18:06:37,116 [Worker-48: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 18:06:37,116 [Worker-48: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\main\resources
+2019-08-20 18:06:37,117 [Worker-48: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 18:06:37,117 [Worker-48: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\test\resources
+2019-08-20 18:07:54,440 [Worker-45: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 18:07:54,440 [Worker-45: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\main\resources
+2019-08-20 18:07:54,441 [Worker-45: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 18:07:54,441 [Worker-45: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\test\resources
+2019-08-20 18:08:18,171 [Worker-46: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 18:08:18,171 [Worker-46: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\main\resources
+2019-08-20 18:08:18,172 [Worker-46: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 18:08:18,173 [Worker-46: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\test\resources
+2019-08-20 18:08:58,711 [Worker-48: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 18:08:58,711 [Worker-48: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\main\resources
+2019-08-20 18:08:58,713 [Worker-48: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 18:08:58,713 [Worker-48: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\test\resources
+2019-08-20 18:09:09,309 [Worker-47: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 18:09:09,309 [Worker-47: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\main\resources
+2019-08-20 18:09:09,310 [Worker-47: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 18:09:09,310 [Worker-47: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\test\resources
+2019-08-20 18:11:52,048 [Worker-47: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 18:11:52,048 [Worker-47: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\main\resources
+2019-08-20 18:11:52,049 [Worker-47: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 18:11:52,049 [Worker-47: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\test\resources
+2019-08-20 18:12:17,688 [Worker-49: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 18:12:17,688 [Worker-49: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\main\resources
+2019-08-20 18:12:17,689 [Worker-49: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 18:12:17,689 [Worker-49: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory T:\AdvancedProgramming\JavaAdv\Eclipse\JPA_Test\src\test\resources
