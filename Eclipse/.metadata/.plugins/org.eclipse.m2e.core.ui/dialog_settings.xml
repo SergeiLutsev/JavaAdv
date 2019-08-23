@@ -25,6 +25,8 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.sergei.WishList"/>
+			<item value="com.sergei.HibernateJPA_persistanseXML"/>
 			<item value="com.sergei.JPA_Test"/>
 			<item value="com.sergei.Hiber_Test_HQL"/>
 			<item value="com.sergei.HiberDemo_test_1"/>
@@ -34,6 +36,8 @@
 			<item value="com.sergei"/>
 		</list>
 		<list key="artifactId">
+			<item value="WishList"/>
+			<item value="HibernateJPA_persistanseXML"/>
 			<item value="JPA_Test"/>
 			<item value="Hiber_Test_HQL"/>
 			<item value="HiberDemo_test_1"/>

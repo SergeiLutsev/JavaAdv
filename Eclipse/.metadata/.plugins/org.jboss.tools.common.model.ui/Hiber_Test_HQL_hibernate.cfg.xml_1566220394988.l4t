@@ -2,12 +2,12 @@
 <Layout resource="/Hiber_Test_HQL/src/main/java/hibernate.cfg.xml">
  <TreeFormPage>
   <Memento type="HibConfig3SessionFactory">
-   <Memento type="Session Factory"/>
-   <Memento type="Properties"/>
-   <Memento type="Mappings"/>
+   <Memento collapsed="false" type="Session Factory"/>
+   <Memento collapsed="false" type="Properties"/>
+   <Memento collapsed="false" type="Mappings"/>
   </Memento>
   <Memento type="">
-   <Memento type="Properties Editor"/>
+   <Memento collapsed="false" type="Properties Editor"/>
   </Memento>
  </TreeFormPage>
 </Layout>
